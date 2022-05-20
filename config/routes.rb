@@ -9,3 +9,4 @@ Rails.application.routes.draw do
   resources :lists, only: [:show, :new, :create]
 
 end
+ 
